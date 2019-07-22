@@ -6,8 +6,8 @@
 class Sender{
   public:
     Sender();
-    void newDevice(byte address, float range);
-    void addDevice();
+    void newDevice(byte address, float range); //添加设备
+    void addDevice();     
     void deleteDevice();
     void loop();
     
