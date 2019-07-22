@@ -8,7 +8,7 @@ class Sender{
     Sender();
     void newDevice(byte address, float range); //添加设备
     void addDevice();      //添加设备
-    void deleteDevice();
+    void deleteDevice();   //删除设备
     void loop();
     
   private:
