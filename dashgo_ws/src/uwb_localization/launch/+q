@@ -1,0 +1,7 @@
+<launch>  
+   <node pkg="tf" type="static_transform_publisher" name="uwbtfbroadcaster1" args="-0.965 -0.193 1.2 0 0 0 1 map 1 100" />
+   <node pkg="tf" type="static_transform_publisher" name="uwbtfbroadcaster2" args="1.38 1.317 1.2 0 0 0 1 map 2 100" />
+   <node pkg="tf" type="static_transform_publisher" name="uwbtfbroadcaster3" args="-2.36 2.152 1.2 0 0 0 1 map 3 100" />
+</launch>
+  
+  

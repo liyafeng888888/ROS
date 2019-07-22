@@ -1,0 +1,8 @@
+prefix=/home/irec/dashgo_ws/install
+
+Name: uwb_localization
+Description: Description of uwb_localization
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/irec/dashgo_ws/install/lib 
+Requires: 

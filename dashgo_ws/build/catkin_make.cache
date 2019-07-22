@@ -1,0 +1,2 @@
+dashgo/dashgo_description:dashgo/dashgo_driver:dashgo/dashgo_nav:dashgo/dashgo_rviz:dashgo/dashgo_tools:dashgo/flashgo-2.3.9:dashgo/pathgo_imu:dashgo/simple_navigation_goals:uwb_localization
+-DCATKIN_DEVEL_PREFIX=/home/irec/dashgo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/irec/dashgo_ws/install -G Unix Makefiles

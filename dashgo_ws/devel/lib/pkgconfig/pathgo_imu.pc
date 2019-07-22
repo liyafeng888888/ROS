@@ -1,0 +1,8 @@
+prefix=/home/irec/dashgo_ws/devel
+
+Name: pathgo_imu
+Description: Description of pathgo_imu
+Version: 2.1.0
+Cflags: 
+Libs: -L/home/irec/dashgo_ws/devel/lib 
+Requires: geometry_msgs roscpp sensor_msgs serial std_msgs std_srvs tf

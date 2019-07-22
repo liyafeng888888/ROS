@@ -1,0 +1,8 @@
+prefix=/home/irec/dashgo_ws/install
+
+Name: flashgo
+Description: Description of flashgo
+Version: 2.3.9
+Cflags: 
+Libs: -L/home/irec/dashgo_ws/install/lib 
+Requires: 

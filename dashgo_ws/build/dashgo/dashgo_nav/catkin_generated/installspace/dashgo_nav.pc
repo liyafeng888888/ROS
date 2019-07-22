@@ -1,0 +1,8 @@
+prefix=/home/irec/dashgo_ws/install
+
+Name: dashgo_nav
+Description: Description of dashgo_nav
+Version: 2.1.0
+Cflags: 
+Libs: -L/home/irec/dashgo_ws/install/lib 
+Requires: 

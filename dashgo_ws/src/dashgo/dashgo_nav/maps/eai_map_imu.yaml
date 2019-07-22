@@ -1,0 +1,7 @@
+image: /home/irec/dashgo_ws/src/dashgo/dashgo_nav/maps/eai_map_imu.pgm
+resolution: 0.050000
+origin: [-12.200000, -13.800000, 0.000000]
+negate: 0
+occupied_thresh: 0.60
+free_thresh: 0.18
+
